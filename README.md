@@ -1,6 +1,10 @@
 # bookshelf-upsert
 A plugin that includes an upsert method to Bookshelf Model &amp; Collection. (Postgresql only)
 
+## support
+* bulk upsert
+* transaction
+
 ## Install
 
 ```javascript
